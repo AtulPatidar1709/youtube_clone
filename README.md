@@ -1,3 +1,8 @@
+#Screen Shots
+
+![Youtube4U](https://github.com/AtulPatidar1709/youtube_clone/assets/48468580/486ba6ee-5645-42d8-9df7-590362de1ef2)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
